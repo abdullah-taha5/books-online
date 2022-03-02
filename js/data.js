@@ -3,7 +3,7 @@ let productsData = [
         id: 1,
         title: 'HTML',
         link: "https://goalkicker.com/HTML5Book/",
-        image: './images/book1.png'
+        image: './images/html.png'
     },
     {
         id: 2,
